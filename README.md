@@ -1,2 +1,2 @@
 # LShell
-A python exo-shell
+Short for LOLSHELL, A python exo-shell based around filtering terminal output into `lolcat`
